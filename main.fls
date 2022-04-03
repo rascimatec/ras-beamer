@@ -527,8 +527,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT /home/vitor/Documents/GitHub/ras-beamer/img/nothing.png
-INPUT /home/vitor/Documents/GitHub/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/GitHub/ras-beamer/img/white.png
 INPUT /home/vitor/Documents/GitHub/ras-beamer/img/white.png
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map

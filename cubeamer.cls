@@ -325,9 +325,10 @@
     \begingroup
         \setbeamercolor{normal text}{fg = white, bg = black}
         \setbeamertemplate{footline}{
-            \begin{beamercolorbox}[wd = \textwidth, ht = 1.2cm, sep = 0.4cm]{footer}
-                \includegraphics[height = 0.5cm]{img/nothing.png}
-                \includegraphics[height = 1cm]{img/white.png}
+            
+            \begin{beamercolorbox}[wd = \textwidth, ht = 5.5cm, sep = 11.2cm]{footer}
+                % \includegraphics[height = 0.5cm]{img/nothing.png}
+                \includegraphics[height = 1.3cm]{img/white.png}
                 \hfill
                 \ifdefined\@copyrightnotice
                     \raisebox{0.22cm}{
