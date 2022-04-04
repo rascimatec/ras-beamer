@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.28)  3 APR 2022 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.28)  4 APR 2022 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/vitor/Documents/GitHub/arduino-wk/main.tex
-(/home/vitor/Documents/GitHub/arduino-wk/main.tex
+**/home/vitor/Documents/GitHub/ras-beamer/main.tex
+(/home/vitor/Documents/GitHub/ras-beamer/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/vitor/Documents/GitHub/arduino-wk/cubeamer.cls
+L3 programming layer <2020-02-14> (/home/vitor/Documents/GitHub/ras-beamer/cubeamer.cls
 Document Class: cubeamer CU Boulder Beamer Presentation Template by @polmes
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -1063,7 +1063,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (/home/vitor/Documents/GitHub/arduino-wk/main.aux)
+ (/home/vitor/Documents/GitHub/ras-beamer/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1150,7 +1150,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
 LaTeX Info: Redefining \nameref on input line 10.
- (/home/vitor/Documents/GitHub/arduino-wk/main.out) (/home/vitor/Documents/GitHub/arduino-wk/main.out)
+ (/home/vitor/Documents/GitHub/ras-beamer/main.out) (/home/vitor/Documents/GitHub/ras-beamer/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -1225,7 +1225,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 10.
- (/home/vitor/Documents/GitHub/arduino-wk/main.nav)
+ (/home/vitor/Documents/GitHub/ras-beamer/main.nav)
 <img/nothing.png, id=29, 376.40625pt x 376.40625pt>
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
@@ -1277,7 +1277,7 @@ Overfull \hbox (182.09747pt too wide) has occurred while \output is active
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/GitHub/arduino-wk/img/white.png>] (/home/vitor/Documents/GitHub/arduino-wk/main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/GitHub/ras-beamer/img/white.png>] (/home/vitor/Documents/GitHub/ras-beamer/main.toc)
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 14.
@@ -1296,7 +1296,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 14
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [2
 
- </home/vitor/Documents/GitHub/arduino-wk/img/nothing.png> </home/vitor/Documents/GitHub/arduino-wk/img/logosenaicimatecnegativo.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/nothing.png> </home/vitor/Documents/GitHub/ras-beamer/img/logosenaicimatecnegativo.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 16.
@@ -1339,7 +1339,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 38
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [4
 
- </home/vitor/Documents/GitHub/arduino-wk/img/team2.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/team2.png>]
 <img/mediador.png, id=71, 542.025pt x 542.025pt>
 File: img/mediador.png Graphic file (type png)
 <use img/mediador.png>
@@ -1363,7 +1363,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 58
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [5
 
- </home/vitor/Documents/GitHub/arduino-wk/img/mediador.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/mediador.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 80.
@@ -1425,7 +1425,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 11
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [8
 
- </home/vitor/Documents/GitHub/arduino-wk/img/arduino.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/arduino.png>]
 <img/placas.png, id=102, 1445.4pt x 813.0375pt>
 File: img/placas.png Graphic file (type png)
 <use img/placas.png>
@@ -1453,7 +1453,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 12
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
 [9
 
- </home/vitor/Documents/GitHub/arduino-wk/img/placas.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/placas.png>]
 <img/uno.png, id=110, 824.32968pt x 625.58719pt>
 File: img/uno.png Graphic file (type png)
 <use img/uno.png>
@@ -1477,7 +1477,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 13
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [10
 
- </home/vitor/Documents/GitHub/arduino-wk/img/uno.png>]
+ </home/vitor/Documents/GitHub/ras-beamer/img/uno.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 138.
@@ -1576,7 +1576,7 @@ Package pdftex.def Info: img/white.png  used on input line 161.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
- (/home/vitor/Documents/GitHub/arduino-wk/main.aux)
+ (/home/vitor/Documents/GitHub/ras-beamer/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1589,13 +1589,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  33764 strings out of 481239
  732314 string characters out of 5920376
- 1033959 words of memory out of 5000000
+ 1033957 words of memory out of 5000000
  48229 multiletter control sequences out of 15000+600000
  549225 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,16n,110p,1844b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on /home/vitor/Documents/GitHub/arduino-wk/main.pdf (15 pages, 4227406 bytes).
+Output written on /home/vitor/Documents/GitHub/ras-beamer/main.pdf (15 pages, 4227366 bytes).
 PDF statistics:
  185 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams
