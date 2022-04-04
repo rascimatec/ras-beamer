@@ -1,2 +1,2 @@
-\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {3}{A Section}{6}{0}{2}
+\beamer@sectionintoc {2}{Introdução}{3}{0}{1}
+\beamer@sectionintoc {3}{O que é Arduino?}{11}{0}{2}
