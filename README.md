@@ -1,7 +1,7 @@
 # RAS Cimatec Beamer
 
 <p align="center">
-  <img src="./main.pdf" alt="Size Limit CLI" width="738">
+  <img src="./img/cover.png" alt="Size Limit CLI" width="738">
 </p>
 
 
