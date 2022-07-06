@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.28)  4 APR 2022 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.23)  6 JUL 2022 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/vitor/Documents/GitHub/ras-beamer/main.tex
-(/home/vitor/Documents/GitHub/ras-beamer/main.tex
+**/home/vitor/Documents/templates/ras-beamer/main.tex
+(/home/vitor/Documents/templates/ras-beamer/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/vitor/Documents/GitHub/ras-beamer/cubeamer.cls
+L3 programming layer <2020-02-14> (/home/vitor/Documents/templates/ras-beamer/cubeamer.cls
 Document Class: cubeamer CU Boulder Beamer Presentation Template by @polmes
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -1063,25 +1063,25 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (/home/vitor/Documents/GitHub/ras-beamer/main.aux)
+ (/home/vitor/Documents/templates/ras-beamer/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1137,7 +1137,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box174
-Package hyperref Info: Link coloring OFF on input line 10.
+Package hyperref Info: Link coloring OFF on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1147,62 +1147,62 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count395
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
- (/home/vitor/Documents/GitHub/ras-beamer/main.out) (/home/vitor/Documents/GitHub/ras-beamer/main.out)
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
+ (/home/vitor/Documents/templates/ras-beamer/main.out) (/home/vitor/Documents/templates/ras-beamer/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 10.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 10.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
 \symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 10.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 10.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 10.
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 10.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 10.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 10.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 10.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 10.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 10.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 10.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 10.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 10.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 10.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 10.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 10.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 10.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 10.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 10.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 14.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 10.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1220,50 +1220,50 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-binary.cfg
 File: siunitx-binary.cfg 2017/11/26 v2.7k siunitx: Binary units
 )
-Package csquotes Info: Making character " active on input line 10.
+Package csquotes Info: Making character " active on input line 14.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 10.
- (/home/vitor/Documents/GitHub/ras-beamer/main.nav)
+LaTeX Info: Redefining \selectfont on input line 14.
+ (/home/vitor/Documents/templates/ras-beamer/main.nav)
 <img/nothing.png, id=29, 376.40625pt x 376.40625pt>
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 10.
+Package pdftex.def Info: img/nothing.png  used on input line 14.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 <img/white.png, id=31, 1297.2465pt x 444.4605pt>
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 10.
+Package pdftex.def Info: img/white.png  used on input line 14.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 10.
+Package pdftex.def Info: img/nothing.png  used on input line 14.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 <img/logosenaicimatecnegativo.png, id=32, 632.1216pt x 138.7584pt>
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 10.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 14.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 10.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 10.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 14.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 13.
+Package pdftex.def Info: img/white.png  used on input line 17.
 (pdftex.def)             Requested size: 107.95845pt x 36.98866pt.
 
 Overfull \hbox (290.05592pt too wide) has occurred while \output is active
@@ -1277,41 +1277,41 @@ Overfull \hbox (182.09747pt too wide) has occurred while \output is active
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/GitHub/ras-beamer/img/white.png>] (/home/vitor/Documents/GitHub/ras-beamer/main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/templates/ras-beamer/img/white.png>] (/home/vitor/Documents/templates/ras-beamer/main.toc)
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 14.
+Package pdftex.def Info: img/nothing.png  used on input line 18.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 14.
+Package pdftex.def Info: img/white.png  used on input line 18.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 14.
+Package pdftex.def Info: img/nothing.png  used on input line 18.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 14.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 18.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [2
 
- </home/vitor/Documents/GitHub/ras-beamer/img/nothing.png> </home/vitor/Documents/GitHub/ras-beamer/img/logosenaicimatecnegativo.png>]
+ </home/vitor/Documents/templates/ras-beamer/img/nothing.png> </home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 16.
+Package pdftex.def Info: img/nothing.png  used on input line 20.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 16.
+Package pdftex.def Info: img/white.png  used on input line 20.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 16.
+Package pdftex.def Info: img/nothing.png  used on input line 20.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 16.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 20.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [3
 
@@ -1319,250 +1319,179 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 16
 <img/team2.png, id=62, 1486.55376pt x 959.585pt>
 File: img/team2.png Graphic file (type png)
 <use img/team2.png>
-Package pdftex.def Info: img/team2.png  used on input line 38.
+Package pdftex.def Info: img/team2.png  used on input line 41.
 (pdftex.def)             Requested size: 207.8439pt x 134.17459pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 38.
+Package pdftex.def Info: img/nothing.png  used on input line 41.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 38.
+Package pdftex.def Info: img/white.png  used on input line 41.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 38.
+Package pdftex.def Info: img/nothing.png  used on input line 41.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 38.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 41.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [4
 
- </home/vitor/Documents/GitHub/ras-beamer/img/team2.png>]
-<img/mediador.png, id=71, 542.025pt x 542.025pt>
+ </home/vitor/Documents/templates/ras-beamer/img/team2.png>]
+<img/mediador.png, id=72, 542.025pt x 542.025pt>
 File: img/mediador.png Graphic file (type png)
 <use img/mediador.png>
-Package pdftex.def Info: img/mediador.png  used on input line 58.
+Package pdftex.def Info: img/mediador.png  used on input line 61.
 (pdftex.def)             Requested size: 111.81056pt x 111.81102pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 58.
+Package pdftex.def Info: img/nothing.png  used on input line 61.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 58.
+Package pdftex.def Info: img/white.png  used on input line 61.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 58.
+Package pdftex.def Info: img/nothing.png  used on input line 61.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 58.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 61.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [5
 
- </home/vitor/Documents/GitHub/ras-beamer/img/mediador.png>]
+ </home/vitor/Documents/templates/ras-beamer/img/mediador.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 80.
+Package pdftex.def Info: img/nothing.png  used on input line 78.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 80.
+Package pdftex.def Info: img/white.png  used on input line 78.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 80.
+Package pdftex.def Info: img/nothing.png  used on input line 78.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 80.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 78.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [6
 
 ]
+<img/uno.png, id=87, 824.32968pt x 625.58719pt>
+File: img/uno.png Graphic file (type png)
+<use img/uno.png>
+Package pdftex.def Info: img/uno.png  used on input line 90.
+(pdftex.def)             Requested size: 147.32893pt x 111.81102pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 91.
+Package pdftex.def Info: img/nothing.png  used on input line 90.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 91.
+Package pdftex.def Info: img/white.png  used on input line 90.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 91.
+Package pdftex.def Info: img/nothing.png  used on input line 90.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 91.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 90.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [7
 
-]
-<img/arduino.png, id=94, 225.84375pt x 225.84375pt>
-File: img/arduino.png Graphic file (type png)
-<use img/arduino.png>
-Package pdftex.def Info: img/arduino.png  used on input line 114.
-(pdftex.def)             Requested size: 134.18054pt x 134.17459pt.
+ </home/vitor/Documents/templates/ras-beamer/img/uno.png>]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 114.
+Package pdftex.def Info: img/nothing.png  used on input line 92.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 114.
+Package pdftex.def Info: img/white.png  used on input line 92.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 114.
+Package pdftex.def Info: img/nothing.png  used on input line 92.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 114.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 92.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [8
 
- </home/vitor/Documents/GitHub/ras-beamer/img/arduino.png>]
-<img/placas.png, id=102, 1445.4pt x 813.0375pt>
-File: img/placas.png Graphic file (type png)
-<use img/placas.png>
-Package pdftex.def Info: img/placas.png  used on input line 125.
-(pdftex.def)             Requested size: 357.7762pt x 201.25848pt.
-
-Overfull \vbox (21.1205pt too high) detected at line 125
- []
-
+]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 125.
+Package pdftex.def Info: img/nothing.png  used on input line 100.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 125.
+Package pdftex.def Info: img/white.png  used on input line 100.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 125.
+Package pdftex.def Info: img/nothing.png  used on input line 100.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 125.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 100.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
-[9
+ [9
 
- </home/vitor/Documents/GitHub/ras-beamer/img/placas.png>]
-<img/uno.png, id=110, 824.32968pt x 625.58719pt>
-File: img/uno.png Graphic file (type png)
-<use img/uno.png>
-Package pdftex.def Info: img/uno.png  used on input line 136.
-(pdftex.def)             Requested size: 206.25801pt x 156.53474pt.
+]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 136.
+Package pdftex.def Info: img/nothing.png  used on input line 100.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 136.
+Package pdftex.def Info: img/white.png  used on input line 100.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 136.
+Package pdftex.def Info: img/nothing.png  used on input line 100.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 136.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 100.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [10
-
- </home/vitor/Documents/GitHub/ras-beamer/img/uno.png>]
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 138.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/white.png Graphic file (type png)
-<use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 138.
-(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 138.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 138.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [11
-
-]
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 146.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/white.png Graphic file (type png)
-<use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 146.
-(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 146.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 146.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [12
-
-]
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 146.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/white.png Graphic file (type png)
-<use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 146.
-(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 146.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 146.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [13
 
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 155.
+(Font)              using `OT1/cmss/bx/n' instead on input line 109.
 
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 155.
+Package pdftex.def Info: img/nothing.png  used on input line 109.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 155.
+Package pdftex.def Info: img/white.png  used on input line 109.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 155.
+Package pdftex.def Info: img/nothing.png  used on input line 109.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 155.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 109.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
-[14
+[11
 
 ]
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 161.
+Package pdftex.def Info: img/white.png  used on input line 115.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
- [15
+ [12
 
 ]
 \tf@nav=\write8
@@ -1574,31 +1503,31 @@ Package pdftex.def Info: img/white.png  used on input line 161.
 \tf@snm=\write10
 \openout10 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
- (/home/vitor/Documents/GitHub/ras-beamer/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+ (/home/vitor/Documents/templates/ras-beamer/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D8EA54F4F84A63BA4BB74CB3A39AE9B0;188.
+(rerunfilecheck)             Checksum: 7902CBD16A1CD2F3FB3A35EF157826CB;190.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33764 strings out of 481239
- 732314 string characters out of 5920376
- 1033957 words of memory out of 5000000
- 48229 multiletter control sequences out of 15000+600000
- 549225 words of font info for 78 fonts, out of 8000000 for 9000
+ 33732 strings out of 481239
+ 731979 string characters out of 5920377
+ 1034700 words of memory out of 5000000
+ 48205 multiletter control sequences out of 15000+600000
+ 548942 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,16n,110p,1844b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
-Output written on /home/vitor/Documents/GitHub/ras-beamer/main.pdf (15 pages, 4227366 bytes).
+ 79i,16n,110p,1847b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
+Output written on /home/vitor/Documents/templates/ras-beamer/main.pdf (12 pages, 2786768 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
