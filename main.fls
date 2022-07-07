@@ -545,6 +545,8 @@ INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/01-introduction.tex
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/01-introduction.tex
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/white.png
@@ -579,6 +581,16 @@ INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/02-two-columns.tex
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/02-two-columns.tex
+INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/white.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/white.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
@@ -588,9 +600,8 @@ INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
-INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
-INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
-INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/03-complements.tex
+INPUT /home/vitor/Documents/templates/ras-beamer/sections/03-complements.tex
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/white.png
@@ -599,6 +610,9 @@ INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
+INPUT /home/vitor/Documents/templates/ras-beamer/img/uno.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/nothing.png
 INPUT /home/vitor/Documents/templates/ras-beamer/img/white.png
