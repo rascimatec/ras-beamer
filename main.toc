@@ -1,3 +1,4 @@
 \beamer@sectionintoc {2}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {3}{Two columns}{6}{0}{2}
-\beamer@sectionintoc {4}{Complements}{8}{0}{3}
+\beamer@sectionintoc {3}{Eventos}{10}{0}{2}
+\beamer@sectionintoc {4}{Projetos}{14}{0}{3}
+\beamer@sectionintoc {5}{Comitês}{21}{0}{4}

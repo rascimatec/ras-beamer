@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.23)  7 JUL 2022 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.23)  31 JUL 2022 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/vitor/Documents/templates/ras-beamer/main.tex
-(/home/vitor/Documents/templates/ras-beamer/main.tex
+**/home/vitor/Documents/presentations/ras-beamer/main.tex
+(/home/vitor/Documents/presentations/ras-beamer/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/vitor/Documents/templates/ras-beamer/cubeamer.cls
+L3 programming layer <2020-02-14> (/home/vitor/Documents/presentations/ras-beamer/cubeamer.cls
 Document Class: cubeamer CU Boulder Beamer Presentation Template by @polmes
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -1063,7 +1063,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (/home/vitor/Documents/templates/ras-beamer/main.aux)
+ (/home/vitor/Documents/presentations/ras-beamer/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -1150,7 +1150,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
- (/home/vitor/Documents/templates/ras-beamer/main.out) (/home/vitor/Documents/templates/ras-beamer/main.out)
+ (/home/vitor/Documents/presentations/ras-beamer/main.out) (/home/vitor/Documents/presentations/ras-beamer/main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
@@ -1225,13 +1225,13 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 14.
- (/home/vitor/Documents/templates/ras-beamer/main.nav)
-<img/nothing.png, id=33, 376.40625pt x 376.40625pt>
+ (/home/vitor/Documents/presentations/ras-beamer/main.nav)
+<img/nothing.png, id=81, 376.40625pt x 376.40625pt>
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 14.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-<img/white.png, id=35, 1297.2465pt x 444.4605pt>
+<img/white.png, id=83, 1297.2465pt x 444.4605pt>
 File: img/white.png Graphic file (type png)
 <use img/white.png>
 Package pdftex.def Info: img/white.png  used on input line 14.
@@ -1240,7 +1240,7 @@ File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 14.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-<img/logosenaicimatecnegativo.png, id=36, 632.1216pt x 138.7584pt>
+<img/logosenaicimatecnegativo.png, id=84, 632.1216pt x 138.7584pt>
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
 Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 14.
@@ -1277,7 +1277,7 @@ Overfull \hbox (182.09747pt too wide) has occurred while \output is active
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/templates/ras-beamer/img/white.png>] (/home/vitor/Documents/templates/ras-beamer/main.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/vitor/Documents/presentations/ras-beamer/img/white.png>] (/home/vitor/Documents/presentations/ras-beamer/main.toc)
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 18.
@@ -1296,7 +1296,7 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 18
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [2
 
- </home/vitor/Documents/templates/ras-beamer/img/nothing.png> </home/vitor/Documents/templates/ras-beamer/img/logosenaicimatecnegativo.png>] (/home/vitor/Documents/templates/ras-beamer/sections/01-introduction.tex
+ </home/vitor/Documents/presentations/ras-beamer/img/nothing.png> </home/vitor/Documents/presentations/ras-beamer/img/logosenaicimatecnegativo.png>] (/home/vitor/Documents/presentations/ras-beamer/sections/01-introduction.tex
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
 Package pdftex.def Info: img/nothing.png  used on input line 1.
@@ -1316,171 +1316,309 @@ Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 1.
  [3
 
 ]
-<img/team2.png, id=68, 1486.55376pt x 959.585pt>
-File: img/team2.png Graphic file (type png)
-<use img/team2.png>
-Package pdftex.def Info: img/team2.png  used on input line 22.
-(pdftex.def)             Requested size: 207.8439pt x 134.17459pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 22.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 22.
+Package pdftex.def Info: img/white.png  used on input line 3.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 22.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 22.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [4
 
- </home/vitor/Documents/templates/ras-beamer/img/team2.png>]
-<img/mediador.png, id=78, 542.025pt x 542.025pt>
-File: img/mediador.png Graphic file (type png)
-<use img/mediador.png>
-Package pdftex.def Info: img/mediador.png  used on input line 42.
-(pdftex.def)             Requested size: 111.81056pt x 111.81102pt.
+]
+<img/ros2-foxy.png, id=126, 421.575pt x 501.875pt>
+File: img/ros2-foxy.png Graphic file (type png)
+<use img/ros2-foxy.png>
+Package pdftex.def Info: img/ros2-foxy.png  used on input line 23.
+(pdftex.def)             Requested size: 112.70747pt x 134.17459pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 42.
+Package pdftex.def Info: img/nothing.png  used on input line 23.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 42.
+Package pdftex.def Info: img/white.png  used on input line 23.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 42.
+Package pdftex.def Info: img/nothing.png  used on input line 23.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 42.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 23.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [5
 
- </home/vitor/Documents/templates/ras-beamer/img/mediador.png>]) (/home/vitor/Documents/templates/ras-beamer/sections/02-two-columns.tex
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 1.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+ </home/vitor/Documents/presentations/ras-beamer/img/ros2-foxy.png>]
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 1.
+Package pdftex.def Info: img/white.png  used on input line 25.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 1.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 1.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [6
 
 ]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 18.
+Package pdftex.def Info: img/nothing.png  used on input line 43.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 18.
+Package pdftex.def Info: img/white.png  used on input line 43.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 18.
+Package pdftex.def Info: img/nothing.png  used on input line 43.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 18.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 43.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [7
 
-]) (/home/vitor/Documents/templates/ras-beamer/sections/03-complements.tex
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 1.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+]
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 1.
+Package pdftex.def Info: img/white.png  used on input line 45.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
-File: img/nothing.png Graphic file (type png)
-<use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 1.
-(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
-File: img/logosenaicimatecnegativo.png Graphic file (type png)
-<use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 1.
-(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [8
 
 ]
-<img/uno.png, id=106, 824.32968pt x 625.58719pt>
-File: img/uno.png Graphic file (type png)
-<use img/uno.png>
-Package pdftex.def Info: img/uno.png  used on input line 11.
-(pdftex.def)             Requested size: 147.32893pt x 111.81102pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 11.
+Package pdftex.def Info: img/nothing.png  used on input line 60.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 11.
+Package pdftex.def Info: img/white.png  used on input line 60.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 11.
+Package pdftex.def Info: img/nothing.png  used on input line 60.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 11.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 60.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [9
 
- </home/vitor/Documents/templates/ras-beamer/img/uno.png>]
+]
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 19.
+Package pdftex.def Info: img/nothing.png  used on input line 62.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 19.
+Package pdftex.def Info: img/white.png  used on input line 62.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 19.
+Package pdftex.def Info: img/nothing.png  used on input line 62.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 19.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 62.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
  [10
 
 ]
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 64.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+ [11
+
+]
+<img/siintec.jpeg, id=180, 963.6pt x 441.65pt>
+File: img/siintec.jpeg Graphic file (type jpg)
+<use img/siintec.jpeg>
+Package pdftex.def Info: img/siintec.jpeg  used on input line 84.
+(pdftex.def)             Requested size: 170.76451pt x 78.26907pt.
+
+Overfull \hbox (11.43152pt too wide) in paragraph at lines 84--84
+ [] 
+ []
+
+<img/ford.png, id=181, 2569.6pt x 985.6825pt>
+File: img/ford.png Graphic file (type png)
+<use img/ford.png>
+Package pdftex.def Info: img/ford.png  used on input line 84.
+(pdftex.def)             Requested size: 145.73944pt x 55.9055pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 19.
+Package pdftex.def Info: img/nothing.png  used on input line 84.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/white.png Graphic file (type png)
 <use img/white.png>
-Package pdftex.def Info: img/white.png  used on input line 19.
+Package pdftex.def Info: img/white.png  used on input line 84.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
 File: img/nothing.png Graphic file (type png)
 <use img/nothing.png>
-Package pdftex.def Info: img/nothing.png  used on input line 19.
+Package pdftex.def Info: img/nothing.png  used on input line 84.
 (pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
 File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
-Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 19.
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 84.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
- [11
+[12
+
+ </home/vitor/Documents/presentations/ras-beamer/img/siintec.jpeg> </home/vitor/Documents/presentations/ras-beamer/img/ford.png>]
+<img/micro-ras.png, id=189, 1445.4pt x 813.0375pt>
+File: img/micro-ras.png Graphic file (type png)
+<use img/micro-ras.png>
+Package pdftex.def Info: img/micro-ras.png  used on input line 107.
+(pdftex.def)             Requested size: 139.14499pt x 78.26907pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 107.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 107.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 107.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 107.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+ [13
+
+ </home/vitor/Documents/presentations/ras-beamer/img/micro-ras.png>]
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 109.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 109.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 109.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 109.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+ [14
+
+]
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 127.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 127.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 127.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 127.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+ [15
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 128--128
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 128.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[16
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 129--129
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 129.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[17
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 130--130
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 130.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[18
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 131--131
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 131.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[19
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 132--132
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 132.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[20
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 134--134
+[][][]  
+ []
+
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 134.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 134.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+File: img/nothing.png Graphic file (type png)
+<use img/nothing.png>
+Package pdftex.def Info: img/nothing.png  used on input line 134.
+(pdftex.def)             Requested size: 5.68605pt x 5.69046pt.
+File: img/logosenaicimatecnegativo.png Graphic file (type png)
+<use img/logosenaicimatecnegativo.png>
+Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 134.
+(pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
+[21
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 135--135
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 135.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[22
+
+]
+Overfull \hbox (34.41331pt too wide) in paragraph at lines 136--136
+[][][]  
+ []
+
+File: img/white.png Graphic file (type png)
+<use img/white.png>
+Package pdftex.def Info: img/white.png  used on input line 136.
+(pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
+[23
 
 ])
 
@@ -1503,14 +1641,14 @@ File: img/logosenaicimatecnegativo.png Graphic file (type png)
 <use img/logosenaicimatecnegativo.png>
 Package pdftex.def Info: img/logosenaicimatecnegativo.png  used on input line 33.
 (pdftex.def)             Requested size: 77.77075pt x 17.07182pt.
-[12
+[24
 
 ]
 File: img/white.png Graphic file (type png)
 <use img/white.png>
 Package pdftex.def Info: img/white.png  used on input line 39.
 (pdftex.def)             Requested size: 49.8224pt x 17.07182pt.
- [13
+ [25
 
 ]
 \tf@nav=\write8
@@ -1524,29 +1662,29 @@ Package pdftex.def Info: img/white.png  used on input line 39.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
- (/home/vitor/Documents/templates/ras-beamer/main.aux)
+ (/home/vitor/Documents/presentations/ras-beamer/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B762B004DAD37B2109A33A5E68E7712E;222.
+(rerunfilecheck)             Checksum: EE8E99DE892F69A5CF6ED00DCC1FCE20;947.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33757 strings out of 481239
- 732763 string characters out of 5920377
- 1033641 words of memory out of 5000000
- 48216 multiletter control sequences out of 15000+600000
- 548942 words of font info for 77 fonts, out of 8000000 for 9000
+ 33791 strings out of 481239
+ 732445 string characters out of 5920377
+ 1032758 words of memory out of 5000000
+ 48219 multiletter control sequences out of 15000+600000
+ 548625 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,16n,110p,1847b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on /home/vitor/Documents/templates/ras-beamer/main.pdf (13 pages, 2786299 bytes).
+ 79i,16n,110p,1851b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb>
+Output written on /home/vitor/Documents/presentations/ras-beamer/main.pdf (25 pages, 690248 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
