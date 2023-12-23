@@ -1,3 +1,0 @@
-\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {3}{Two columns}{6}{0}{2}
-\beamer@sectionintoc {4}{Complements}{8}{0}{3}
